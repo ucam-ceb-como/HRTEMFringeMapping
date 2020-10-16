@@ -1,0 +1,7 @@
+HOW TO RUN THE CODE USING THE EXAMPLE IMAGE
+
+1.	Open the file: HRTEMFringeMapping.m
+2.	Run the code
+3.	When asked about ‘ROI selection’: press NO and then type 1 (this is to load the pre-existent ROI). If you want to manually add a new ROI then press YES.
+4.	When asked to ‘Map the fringes with respect to particle centre’: if desired press YES and select the particle centre and radius (press ESC if you want to try again, and right click when satisfied with the selection). If not desired press NO.
+
