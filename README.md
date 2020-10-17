@@ -11,9 +11,9 @@ Please cite these papers when using the code. Preprints of these papers are avai
 
 The main file is:
 ```sh
-ImageAnalysis_v_1_4.m
+HRTEMFringeMapping.m
 ```
-Depending on the selections made, other functions are called. More detailed descriptions can be found in the GUIDE (and also the code).
+Depending on the selections made, other functions are called. More detailed descriptions can be found in the code.
 
 ## Useful links ##
 
