@@ -13,7 +13,7 @@ The main file is:
 ```sh
 HRTEMFringeMapping.m
 ```
-Depending on the selections made, other functions are called. More detailed descriptions can be found in the code.
+Depending on the selections made, other functions are called. More detailed descriptions can be found in the GUIDE (and also the code).
 
 ## Useful links ##
 
